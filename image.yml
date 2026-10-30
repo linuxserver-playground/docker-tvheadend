@@ -17,6 +17,9 @@ upstream:
     type: github_commit
     repo: tvheadend/tvheadend
     branch: master
+  sponsor:
+  - name: Tvheadend (Open Collective)
+    url: https://opencollective.com/tvheadend
 
 release:
   branch: master
